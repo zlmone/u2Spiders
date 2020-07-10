@@ -1,0 +1,273 @@
+//GET https://aweme-eagle-lq.snssdk.com/aweme/v1/user/?user_id=2031520009951376&retry_type=no_retry&iid=3755584628984231&device_id=39176310471&ac=wifi&channel=xiaoshangdian_douyin_and15&aid=1128&app_name=aweme&version_code=180&version_name=1.8.0&device_platform=android&ssmix=a&device_type=MI+5s&device_brand=Xiaomi&language=zh&os_api=24&os_version=7.0&uuid=863410038078777&openudid=5a89263735b838f8&manifest_version_code=180&resolution=1080*1920&dpi=480&update_version_code=1800&_rticket=1594364608325&ts=1594364604&as=aad11fe7785f0812c0d11f&cp=e7c8d11fe778d11fe7c034&mas=01599323d3d39959b3b319b9b9c52f773c59b3b31933f973b32333 HTTP/1.1
+
+
+{
+	"status_code": 0,
+	"user": {
+		"profile_tab_type": 0,
+		"item_list": null,
+		"user_period": 0,
+		"dongtai_count": 126,
+		"has_insights": false,
+		"r_fans_group_info": {},
+		"is_blocked": false,
+		"content_language_already_popup": 0,
+		"need_points": null,
+		"iso_country_code": "CN",
+		"share_qrcode_uri": "3149d0001a0e0fc2896ed",
+		"verification_type": 0,
+		"youtube_channel_id": "",
+		"country": "中国",
+		"uid": "2031520009951376",
+		"weibo_url": "",
+		"relative_users": null,
+		"youtube_last_refresh_time": 0,
+		"unique_id_modify_time": 1594364604,
+		"cover_url": [{
+			"uri": "c8510002be9a3a61aad2",
+			"url_list": ["https://p26-dy.byteimg.com/obj/c8510002be9a3a61aad2?from=1247829622",
+				"https://p3-dy.byteimg.com/obj/c8510002be9a3a61aad2?from=1247829622",
+				"https://p1-dy.byteimg.com/obj/c8510002be9a3a61aad2?from=1247829622"
+			]
+		}],
+		"video_cover": {},
+		"room_id": 0,
+		"enterprise_verify_reason": "",
+		"account_region": "",
+		"follower_status": 0,
+		"district": "",
+		"with_stick_entry": true,
+		"can_set_geofencing": false,
+		"signature": "原创街拍，谢谢关注",
+		"avatar_medium": {
+			"uri": "tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f",
+			"url_list": [
+				"https://p9-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_720x720.jpeg?from=4010531038",
+				"https://p6-dy-ipv6.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_720x720.jpeg?from=4010531038",
+				"https://p3-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_720x720.jpeg?from=4010531038"
+			]
+		},
+		"with_shop_entry": false,
+		"video_icon": {
+			"uri": "",
+			"url_list": []
+		},
+		"cha_list": null,
+		"gender": 1,
+		"share_info": {
+			"share_url": "www.iesdouyin.com/share/user/2031520009951376?sec_uid=MS4wLjABAAAA-_Eo24UJTSd3cjLaJC6IW_hbfJ7UThzXs_4ssDkOfJjH78S_9_Pb8buDeDqRpwdq",
+			"share_weibo_desc": " ",
+			"share_desc": "在抖音，记录美好生活！",
+			"share_title": "快来加入抖音，让你发现最有趣的我！",
+			"share_qrcode_url": {
+				"uri": "3149d0001a0e0fc2896ed",
+				"url_list": ["https://p9-dy-ipv6.byteimg.com/obj/3149d0001a0e0fc2896ed",
+					"https://p3-dy.byteimg.com/obj/3149d0001a0e0fc2896ed", "https://p26-dy.byteimg.com/obj/3149d0001a0e0fc2896ed"
+				]
+			},
+			"share_image_url": {
+				"url_list": null
+			},
+			"bool_persist": 1
+		},
+		"activity": {
+			"use_music_count": 0,
+			"digg_count": 0
+		},
+		"twitter_id": "",
+		"reflow_page_uid": 0,
+		"video_icon_virtual_URI": "",
+		"sec_uid": "MS4wLjABAAAA-_Eo24UJTSd3cjLaJC6IW_hbfJ7UThzXs_4ssDkOfJjH78S_9_Pb8buDeDqRpwdq",
+		"urge_detail": {
+			"user_urged": 0
+		},
+		"custom_verify": "",
+		"commerce_user_level": 0,
+		"recommend_user_reason_source": 0,
+		"comment_setting": 0,
+		"with_commerce_enterprise_tab_entry": false,
+		"hide_location": false,
+		"is_verified": true,
+		"aweme_count": 122,
+		"watch_status": false,
+		"is_effect_artist": false,
+		"new_story_cover": null,
+		"dp_level": false,
+		"favoriting_count": 0,
+		"province": "四川省",
+		"live_commerce": false,
+		"message_chat_entry": true,
+		"forward_count": 4,
+		"verify_info": "",
+		"star_use_new_download": true,
+		"with_commerce_entry": false,
+		"following_count": 29,
+		"bind_phone": "#",
+		"is_gov_media_vip": false,
+		"show_user_ban_dialog": false,
+		"weibo_verify": "",
+		"original_musician": {
+			"music_count": 0,
+			"music_used_count": 0,
+			"digg_count": 0
+		},
+		"story_open": false,
+		"reflow_page_gid": 0,
+		"wx_info": {
+			"wx_avatar_replace": {
+				"uri": "tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f",
+				"url_list": [
+					"https://p6-dy-ipv6.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_1080x1080.jpeg?from=4010531038",
+					"https://p3-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_1080x1080.jpeg?from=4010531038",
+					"https://p9-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_1080x1080.jpeg?from=4010531038"
+				]
+			},
+			"wx_nickname_replace": "太古里美女街拍♪",
+			"replaced": false
+		},
+		"short_id": "0",
+		"unique_id": "kinyobin5",
+		"normal_top_comment_permission": 1,
+		"enterprise_user_info": "{\"commerce_info\":{\"offline_info_list\":[],\"challenge_list\":[]},\"homepage_bottom_toast\":[]}",
+		"user_tags": null,
+		"latest_order_time": 0,
+		"is_pro_account": false,
+		"hide_following_follower_list": 0,
+		"signature_language": "zh",
+		"secret": 0,
+		"douplus_old_user": false,
+		"download_setting": 0,
+		"download_prompt_ts": 0,
+		"birthday_hide_level": 0,
+		"total_favorited": 1744133,
+		"constellation": 10,
+		"has_activity_medal": false,
+		"white_cover_url": [{
+			"uri": "318f1000413827e122102",
+			"url_list": ["https://p29-dy.byteimg.com/obj/318f1000413827e122102?from=1247829622",
+				"https://p6-dy-ipv6.byteimg.com/obj/318f1000413827e122102?from=1247829622",
+				"https://p3-dy.byteimg.com/obj/318f1000413827e122102?from=1247829622"
+			]
+		}],
+		"avatar_thumb": {
+			"uri": "tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f",
+			"url_list": [
+				"https://p3-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_100x100.jpeg?from=4010531038",
+				"https://p29-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_100x100.jpeg?from=4010531038",
+				"https://p9-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_100x100.jpeg?from=4010531038"
+			]
+		},
+		"follow_status": 0,
+		"tab_settings": {
+			"private_tab": {
+				"show_private_tab": false,
+				"private_tab_style": 1
+			}
+		},
+		"youtube_channel_title": "",
+		"react_setting": 0,
+		"show_favorite_list": true,
+		"special_lock": 1,
+		"weibo_schema": "",
+		"user_mode": 0,
+		"ad_cover_url": null,
+		"school_poi_id": "",
+		"commerce_info": {
+			"offline_info_list": [],
+			"challenge_list": []
+		},
+		"with_new_goods": false,
+		"college_name": "外国语学院",
+		"follower_count": 237544,
+		"region": "CN",
+		"geofencing": null,
+		"with_fusion_shop_entry": false,
+		"with_luban_entry": false,
+		"commerce_user_info": {
+			"has_ads_entry": false,
+			"ad_revenue_rits": null
+		},
+		"wx_tag": 0,
+		"homepage_bottom_toast": null,
+		"is_block": false,
+		"followers_detail": [{
+			"open_url": "snssdk1128://user/profile/2031520009951376?",
+			"apple_id": "1142110895",
+			"download_url": "https://d.douyin.com/JsvN/",
+			"package_name": "com.ss.android.ugc.aweme",
+			"app_name": "aweme",
+			"name": "抖音",
+			"icon": "http://p3.pstatp.com/origin/50ec00079b64de2050dc",
+			"fans_count": 237544
+		}, {
+			"open_url": "snssdk143://profile?uid=99105599246",
+			"apple_id": "529092160",
+			"download_url": "https://d.toutiao.com/YjjY/",
+			"package_name": "com.ss.android.article.news",
+			"app_name": "news_article",
+			"name": "头条",
+			"icon": "http://p3.pstatp.com/origin/50ed00079a1b6b8d1fb1",
+			"fans_count": 3845
+		}, {
+			"app_name": "live_stream",
+			"name": "抖音火山版",
+			"icon": "http://p3.pstatp.com/origin/2ea5c000abe106154adef",
+			"fans_count": 0,
+			"open_url": "snssdk1112://profile?id=4503686478781875",
+			"apple_id": "1086047750",
+			"download_url": "http://d.huoshanzhibo.com/eFvB/",
+			"package_name": "com.ss.android.ugc.live"
+		}],
+		"is_star": false,
+		"nickname": "太古里美女街拍",
+		"school_name": "成都理工大学",
+		"show_image_bubble": false,
+		"youtube_refresh_token": "",
+		"mplatform_followers_count": 241389,
+		"platform_sync_info": null,
+		"is_activity_user": false,
+		"birthday": "1992-01-01",
+		"apple_account": 0,
+		"user_canceled": false,
+		"avatar_uri": "tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f",
+		"prevent_download": false,
+		"twitter_name": "",
+		"duet_setting": 0,
+		"city": "成都市",
+		"avatar_300x300": {
+			"uri": "tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f",
+			"url_list": [
+				"https://p9-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_300x300.webp?from=4010531038",
+				"https://p3-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_300x300.webp?from=4010531038",
+				"https://p6-dy-ipv6.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_300x300.webp?from=4010531038"
+			]
+		},
+		"location": "成都市",
+		"sync_to_toutiao": 1,
+		"recommend_reason_relation": "",
+		"type_label": null,
+		"avatar_168x168": {
+			"uri": "tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f",
+			"url_list": [
+				"https://p9-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_168x168.webp?from=4010531038",
+				"https://p6-dy-ipv6.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_168x168.webp?from=4010531038",
+				"https://p26-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_168x168.webp?from=4010531038"
+			]
+		},
+		"avatar_larger": {
+			"uri": "tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f",
+			"url_list": [
+				"https://p6-dy-ipv6.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_1080x1080.jpeg?from=4010531038",
+				"https://p3-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_1080x1080.jpeg?from=4010531038",
+				"https://p9-dy.byteimg.com/img/tos-cn-i-0813/ddebb77d289f49549440f19e68f6e93f~c5_1080x1080.jpeg?from=4010531038"
+			]
+		},
+		"ins_id": ""
+	},
+	"extra": {
+		"now": 1594364604000
+	},
+	"log_pb": {
+		"impr_id": "20200710150324010130093035338A8F32"
+	}
+}
