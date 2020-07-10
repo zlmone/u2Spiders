@@ -1,12 +1,13 @@
-# u2Spiders
+# u2Spiders 移动设备app爬虫
 
-# 移动设备+uiautomator2+atxserver2+weditor+mitmdump+fiddler
+# uiautomator2+atxserver2+weditor+mitmdump+fiddler
+```
 移动设备：真机（手机）、模拟器（夜深模拟器）
 uiautomator2：安装在Ubuntu系统并连接手机进行初始化，python3.7编写自动化脚本
 weditor：用于定位
 mitmdump：抓取app数据，移动设备或模拟器需要设置mitmdump为代理
 atxserver2：多设备监控，不用拿着每个真机去点击滑动等操作
-
+```
 # 打开开发者选项
 设置-》我的设备-》全部参数-》MIUI版本（连续点击打开‘开发者模式’）
 打开usb调试
